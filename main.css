@@ -1,0 +1,41 @@
+body {
+	background-color: #fdf0f0;
+	color: #333;
+	font-family: Playfair Display,Georgia,Times New Roman,Times,serif;
+}
+.Chart1title {
+	padding-left: 45px;
+}
+
+.chloromap {
+    width: 600px;
+	height: 371px;
+    margin-left: 2%;
+    border: 1px solid black;
+    margin-bottom: -10px;
+    margin-top: 10px;
+}
+
+.AltText {
+	padding-left: 45px;
+	font-size:80%;
+	font-family: Times New Roman,Times,serif;
+}
+
+.p1 {
+    width: 40%;
+}
+.URL {
+	font-weight: bold; 
+	text-decoration: underline;
+}
+.AltText2 {
+	padding-left: 5px;
+	font-size:80%;
+	font-family: Times New Roman,Times,serif;
+}
+
+.p3 {
+	margin-top: 80px;
+    width: 40%;
+}
